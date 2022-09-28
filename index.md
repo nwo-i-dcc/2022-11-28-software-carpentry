@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "CWI"        
-address: "Science Park 123, 1098 XG Amsterdam"      
+venue: "NWO Institutes"        
+address: "CWI, Science Park 123, 1098 XG Amsterdam"      
 country: "nl"      
 language: "en" 
 latitude: "52.356342"
