@@ -352,11 +352,12 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="goals">Learning goals</h2>
-<p><strong>Git:</strong>
-  - automate repetitive tasks
-- small data manipulations
-- work reproducible with shell scripts
-  </p>
+<strong>Unix Shell:</strong>
+<ul>
+  <li>Automate repetitive tasks</li>
+  <li>Small data manipulations</li>
+  <li>Work reproducible with shell scripts</li>
+
 <hr/>
 
 <h2 id="schedule">Schedule</h2>
