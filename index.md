@@ -352,6 +352,7 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="goals">Learning goals</h2>
+<p> Software Caprentry covers foundational coding skills for reproduceable, transparent and efficient workflows. The skills that are covered by the individual lessons are:</p> 
 <strong>Unix Shell:</strong>
 <ul>
   <li>Automate repetitive tasks</li>
