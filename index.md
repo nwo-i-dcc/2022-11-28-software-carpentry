@@ -357,7 +357,16 @@ of code below the Schedule `<h2>` header below with
   <li>Automate repetitive tasks</li>
   <li>Small data manipulations</li>
   <li>Work reproducible with shell scripts</li>
-
+</ul>
+<strong>Version control with Git:</strong>
+<ul>
+  <li>setup and use version control</li>
+  <li>collaborate via Git</li>
+</ul>
+  <strong>Programming in Python:</strong>
+<ul>
+  <li>basic programming concepts</li>
+</ul>
 <hr/>
 
 <h2 id="schedule">Schedule</h2>
