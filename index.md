@@ -255,12 +255,12 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
+  
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to all employees of the NWO institutes.
 </p>
-{% endcomment %}
 
 <hr/>
 
@@ -350,6 +350,14 @@ further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
+
+<h2 id="goals">Learning goals</h2>
+<p><strong>Git:</strong>
+  - automate repetitive tasks
+- small data manipulations
+- work reproducible with shell scripts
+  </p>
+<hr/>
 
 <h2 id="schedule">Schedule</h2>
 
