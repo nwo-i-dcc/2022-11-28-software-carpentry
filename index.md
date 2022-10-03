@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "NWO Institutes"        
-address: "CWI, Science Park 123, 1098 XG Amsterdam"      
+address: "CWI, Science Park 123, 1098 XG Amsterdam. Perhaps also at other locations (at different dates)."      
 country: "nl"      
 language: "en" 
 latitude: "52.356342"
