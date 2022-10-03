@@ -351,7 +351,7 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-<h2 id="goals">Learning goals</h2>
+<h2 id="goals">Materials and learning goals</h2>
 <p> Software Caprentry covers foundational coding skills for reproduceable, transparent and efficient workflows. The skills that are covered by the individual lessons are:</p> 
 <strong>Unix Shell (<a href="https://swcarpentry.github.io/shell-novice/">lesson materials</a>):</strong>
 <ul>
