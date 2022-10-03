@@ -353,18 +353,18 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="goals">Materials and learning goals</h2>
 <p> Software Caprentry covers foundational coding skills for reproduceable, transparent and efficient workflows. The skills that are covered by the individual lessons are:</p> 
-<strong>Unix Shell (<a href="https://swcarpentry.github.io/shell-novice/">lesson materials</a>):</strong>
+<strong>Unix Shell (<a href="https://swcarpentry.github.io/shell-novice/" target="_blank">lesson materials</a>):</strong>
 <ul>
   <li>Automate repetitive tasks</li>
   <li>Small data manipulations</li>
   <li>Work reproducible with shell scripts</li>
 </ul>
-<strong>Version control with Git (<a href="https://swcarpentry.github.io/git-novice/">lesson materials</a>):</strong>
+<strong>Version control with Git (<a href="https://swcarpentry.github.io/git-novice/" target="_blank">lesson materials</a>):</strong>
 <ul>
   <li>setup and use version control</li>
   <li>collaborate via Git</li>
 </ul>
-  <strong>Programming in Python (<a href="https://swcarpentry.github.io/python-novice-inflammation/">lesson materials</a>):</strong>
+  <strong>Programming in Python (<a href="https://swcarpentry.github.io/python-novice-inflammation/" target="_blank">lesson materials</a>):</strong>
 <ul>
   <li>basic programming concepts</li>
 </ul>
