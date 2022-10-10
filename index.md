@@ -366,7 +366,12 @@ of code below the Schedule `<h2>` header below with
 </ul>
   <strong>Programming in Python (<a href="https://swcarpentry.github.io/python-novice-inflammation/" target="_blank">lesson materials</a>):</strong>
 <ul>
-  <li>basic programming concepts</li>
+  <li>Python fundamentals</li>
+  <li>Process and visualize tabular data</li>
+  <li>Using lists</li>
+  <li>Automate actions and analyzes</li>
+  <li>Create functions</li>
+  <li>Understand errors and debugging</li>
 </ul>
 <hr/>
 
