@@ -361,17 +361,17 @@ of code below the Schedule `<h2>` header below with
 </ul>
 <strong>Version control with Git (<a href="https://swcarpentry.github.io/git-novice/" target="_blank">lesson materials</a>):</strong>
 <ul>
-  <li>setup and use version control</li>
-  <li>collaborate via Git</li>
+  <li>Setup and use version control</li>
+  <li>Collaborate via Git</li>
 </ul>
   <strong>Programming in Python (<a href="https://swcarpentry.github.io/python-novice-inflammation/" target="_blank">lesson materials</a>):</strong>
 <ul>
   <li>Python fundamentals</li>
   <li>Process and visualize tabular data</li>
-  <li>Using lists</li>
+  <li>Use lists</li>
   <li>Automate actions and analyzes</li>
   <li>Create functions</li>
-  <li>Understand errors and debugging</li>
+  <li>Understand errors and debug</li>
 </ul>
 <hr/>
 
