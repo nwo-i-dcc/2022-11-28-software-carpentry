@@ -262,6 +262,11 @@ Edit the text to match who can attend the workshop. For instance:
     This workshop is open to all employees of the NWO institutes.
 </p>
 
+<p id="certificates">
+    <strong>Certificate of attendance:</strong>
+  If you attend all 3 lessons you will receive a Software Carpentry certification from The Carpentries foundation. If you attend 1 or 2 lessons you will receive a certificate of attendance from NWO-I DCC. 
+</p>
+
 <hr/>
 
 {% comment%}
